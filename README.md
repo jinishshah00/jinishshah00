@@ -52,16 +52,3 @@ Other Tools:    Git, Firebase, RESTful APIs, OAuth2.0, JWT, PM2, Apache
 
 > “The goal is not just to build software, but to build **impact**.”
 > — *Jinish Shah*
-
-```
-
----
-
-This README will **boost your first impression** on recruiters and collaborators by combining:
-- ✅ Your tech skills
-- ✅ A storytelling touch
-- ✅ Project highlights
-- ✅ Modern GitHub profile trends (typing animation, emojis, sectioning)
-
-Would you like me to create a PNG banner (like Suyash's) or an animated SVG for your typing line with custom colors?
-```
