@@ -23,7 +23,7 @@ Infrastructure and DevOps:  Docker, Jenkins, Kubernetes, PM2, Apache, Nginx, Cen
 Cloud and Serverless:       AWS (Lambda, S3, ECS, VPC, IAM, CloudFormation, CloudWatch), Firebase
 Testing and CI/CD:          Git, GitHub Actions, CI/CD Pipelines, Supertest, Jest
 Auth and API:               OAuth 2.0, JWT, RESTful APIs, OpenAI API, Hugging Face API
-AI and Data Tools:          Scikit-learn, Plotly, Pandas, LangChain (RAG), BioBERT, T5 Transformers
+AI and Data Tools:          Scikit-learn, Plotly, Pandas
 Architecture and Patterns:  Microservices, Event-driven Systems, Maker-Checker Workflows
 Other Tools:                VSCode, Postman, Figma, Adobe XD
 ```
