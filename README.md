@@ -15,16 +15,16 @@
 
 ### 🛠️ Tech Stack & Tools
 ```bash
-Languages & Scripting:    JavaScript, TypeScript, Python, Dart, C, C++, Java, SQL, HTML, CSS
+Languages \& Scripting:    JavaScript, TypeScript, Python, Dart, C, C++, Java, SQL, HTML, CSS
 Frontend Frameworks:      Flutter, React.js, Next.js, Material UI, Tailwind CSS, HTML Canvas
 Backend Frameworks:       Node.js, Express.js, Prisma, Supertest, Jest, Dash, Streamlit
 Databases:                MongoDB, PostgreSQL, MySQL, Redis, MongoDB Atlas
 Infrastructure & DevOps:  Docker, Jenkins, Kubernetes, PM2, Apache, Nginx, CentOS Linux
-Cloud & Serverless:       AWS (Lambda, S3, ECS, VPC, IAM, CloudFormation, CloudWatch), Firebase
-Testing & CI/CD:          Git, GitHub Actions, CI/CD Pipelines, Supertest, Jest
-Auth & API:               OAuth 2.0, JWT, RESTful APIs, OpenAI API, Hugging Face API
-AI & Data Tools:          Scikit-learn, Plotly, Pandas, LangChain (RAG), BioBERT, T5 Transformers
-Architecture & Patterns:  Microservices, Event-driven Systems, Maker-Checker Workflows
+Cloud \& Serverless:       AWS (Lambda, S3, ECS, VPC, IAM, CloudFormation, CloudWatch), Firebase
+Testing \& CI/CD:          Git, GitHub Actions, CI/CD Pipelines, Supertest, Jest
+Auth \& API:               OAuth 2.0, JWT, RESTful APIs, OpenAI API, Hugging Face API
+AI \& Data Tools:          Scikit-learn, Plotly, Pandas, LangChain (RAG), BioBERT, T5 Transformers
+Architecture \& Patterns:  Microservices, Event-driven Systems, Maker-Checker Workflows
 Other Tools:              VSCode, Postman, Figma, Adobe XD
 ```
 ---
