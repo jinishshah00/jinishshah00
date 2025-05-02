@@ -7,7 +7,7 @@
 ---
 
 🎓 **MS in Computer Science & Engineering** @ Santa Clara University  
-💻 **Full Stack Developer** | Cloud | Backend Microservices | Frontend React/Flutter 
+💻 **Full Stack Developer** | Cloud | Backend Microservices | Frontend React/Flutter
 🔐 Passionate about **Secure, Scalable & Impact-Oriented Engineering**  
 🤝 Always open to collaborations on AI-driven platforms, EdTech, FinTech and backend systems
 
