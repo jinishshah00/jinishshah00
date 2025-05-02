@@ -51,4 +51,3 @@ Other Tools:    Git, Firebase, RESTful APIs, OAuth2.0, JWT, PM2, Apache
 ---
 
 > “The goal is not just to build software, but to build **impact**.”
-> — *Jinish Shah*
