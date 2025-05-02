@@ -21,7 +21,7 @@ Backend:        Node.js, Express.js, Prisma, MongoDB, PostgreSQL
 Cloud & DevOps: AWS (Lambda, S3, VPC, IAM), Docker, Jenkins, CI/CD  
 Other Tools:    Git, Firebase, RESTful APIs, OAuth2.0, JWT, PM2, Apache  
 
-
+```
 ---
 
 ### 🚀 Featured Projects
