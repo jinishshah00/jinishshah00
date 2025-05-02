@@ -9,8 +9,7 @@
 🎓 **MS in Computer Science & Engineering** @ Santa Clara University  
 💻 **Full Stack Developer** | Cloud | Backend Microservices | Frontend Flutter/React  
 🔐 Passionate about **Secure, Scalable & Impact-Oriented Engineering**  
-🌐 Creator of [Explora Geometry App](https://jinishshah00.github.io/Explora-Geometry-App/) – Bilingual Geometry Learning  
-🤝 Always open to collaborations on AI-driven platforms, EdTech, and backend systems
+🤝 Always open to collaborations on AI-driven platforms, EdTech, FinTech and backend systems
 
 ---
 
