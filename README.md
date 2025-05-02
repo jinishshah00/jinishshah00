@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Jinish Shah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Engineer;Secure+and+Scalable+Cloud+Builder;Flutter+%7C+React+%7C+Node+%7C+AWS+%7C+MongoDB;Loves+Turning+Ideas+into+Impactful+Code&center=true&width=500&height=45&color=7EE787&vCenter=true&size=22" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Engineer;Secure+and+Scalable+Cloud+Builder;Node+%7C+React+%7C+AWS+%7C+MongoDB+%7C+Flutter;Loves+Turning+Ideas+into+Impactful+Code&center=true&width=500&height=45&color=7EE787&vCenter=true&size=22" alt="Typing SVG">
 </p>
 
 ---
@@ -15,12 +15,17 @@
 
 ### 🛠️ Tech Stack & Tools
 ```bash
-Languages:      JavaScript, TypeScript, Python, Dart, C++, SQL  
-Frontend:       Flutter, React.js, Next.js, Material UI  
-Backend:        Node.js, Express.js, Prisma, MongoDB, PostgreSQL  
-Cloud & DevOps: AWS (Lambda, S3, VPC, IAM), Docker, Jenkins, CI/CD  
-Other Tools:    Git, Firebase, RESTful APIs, OAuth2.0, JWT, PM2, Apache  
-
+Languages & Scripting:    JavaScript, TypeScript, Python, Dart, C, C++, Java, SQL, HTML, CSS
+Frontend Frameworks:      Flutter, React.js, Next.js, Material UI, Tailwind CSS, HTML Canvas
+Backend Frameworks:       Node.js, Express.js, Prisma, Supertest, Jest, Dash, Streamlit
+Databases:                MongoDB, PostgreSQL, MySQL, Redis, MongoDB Atlas
+Infrastructure & DevOps:  Docker, Jenkins, Kubernetes, PM2, Apache, Nginx, CentOS Linux
+Cloud & Serverless:       AWS (Lambda, S3, ECS, VPC, IAM, CloudFormation, CloudWatch), Firebase
+Testing & CI/CD:          Git, GitHub Actions, CI/CD Pipelines, Supertest, Jest
+Auth & API:               OAuth 2.0, JWT, RESTful APIs, OpenAI API, Hugging Face API
+AI & Data Tools:          Scikit-learn, Plotly, Pandas, LangChain (RAG), BioBERT, T5 Transformers
+Architecture & Patterns:  Microservices, Event-driven Systems, Maker-Checker Workflows
+Other Tools:              VSCode, Postman, Figma, Adobe XD
 ```
 ---
 
@@ -30,6 +35,7 @@ Other Tools:    Git, Firebase, RESTful APIs, OAuth2.0, JWT, PM2, Apache
 * 📱 **[Explora Geometry App](https://github.com/jinishshah00/Explora-Geometry-App)** – Bilingual learning app built in Flutter with Firebase analytics.
 * 🧠 **[AI-Project](https://github.com/jinishshah00/AI-Project)** – Speech emotion recognition using deep learning and signal processing.
 * 📊 **[Social Determinants on Health](https://github.com/jinishshah00/SocialDeterminantsImpactsOnHealth)** – Interactive health visual analytics (Python/Dash).
+* 🧭 I’ve also contributed extensively to organizational repos — explore **@HalfByteCloudServices** and **@Web-Team-Encode** (with ~45 repos combined) for more of my work beyond this profile.
 
 ---
 
