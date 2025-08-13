@@ -50,7 +50,7 @@ Other Tools:                VSCode, Postman, Figma, Adobe XD
 ### 📫 Reach Out
 
 📍 Santa Clara, CA
-📧 [jinishshah00@gmail.com](mailto:jinishshah00@gmail.com)
+📧 [j.dev.shah@gmail.com](mailto:j.dev.shah@gmail.com)
 📱 +1 (669) 281-9439
 🌐 [Portfolio (soon)](https://jinishshah00.github.io)
 
