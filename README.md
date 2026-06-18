@@ -95,9 +95,10 @@ Security event ingestion → triage → action on Google Cloud. Zero-trust servi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinishshah00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="145"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=jinishshah00&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8&margin-h=8" height="145"/>
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinishshah00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=300"/></td>
+<td><img src="https://streak-stats.demolab.com/?user=jinishshah00&theme=tokyonight&hide_border=true&card_width=300"/></td>
+</tr></table>
 
 </div>
 
