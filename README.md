@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/card.svg" alt="Terminal card — Jinish Shah, AI-native software engineer. M.S. Computer Science, Santa Clara University. TypeScript, Python, Go, React, Node.js, Docker, Kubernetes, AWS, GCP, Claude API." width="100%" />
+<img src="https://raw.githubusercontent.com/jinishshah00/jinishshah00/main/assets/card.svg" alt="Terminal card — Jinish Shah, AI-native software engineer. M.S. Computer Science, Santa Clara University. TypeScript, Python, Go, React, Node.js, Docker, Kubernetes, AWS, GCP, Claude API." width="100%" />
 
 <br/>
 
