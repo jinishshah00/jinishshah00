@@ -1,104 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 480" width="920" height="480" role="img" aria-label="Terminal card: Jinish Shah, AI-native software engineer. M.S. Computer Science, Santa Clara University. TypeScript, Python, Go, React, Node.js, Docker, Kubernetes, AWS, GCP, Claude API.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 520" width="920" height="520" role="img" aria-label="Terminal card: Jinish Shah, AI-native software engineer. M.S. Computer Science, Santa Clara University. TypeScript, Python, Go, React, Node.js, Docker, Kubernetes, AWS, GCP, Claude API.">
 <title>jinishshah00 — system readout</title>
 <defs>
 <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7dcfff"/><stop offset=".5" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient>
-<linearGradient id="asciiGrad" x1="0" y1="0" x2=".3" y2="1"><stop offset="0" stop-color="#7dcfff"/><stop offset=".45" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient>
-<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7dcfff" stop-opacity="0"/><stop offset=".5" stop-color="#cfeaff" stop-opacity=".75"/><stop offset="1" stop-color="#bb9af7" stop-opacity="0"/></linearGradient>
+<linearGradient id="asciiGrad" x1="0" y1="0" x2=".3" y2="1"><stop offset="0" stop-color="#b8ecff"/><stop offset=".45" stop-color="#a9c8ff"/><stop offset="1" stop-color="#d8bdff"/></linearGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7dcfff" stop-opacity="0"/><stop offset=".5" stop-color="#e6f6ff" stop-opacity=".55"/><stop offset="1" stop-color="#bb9af7" stop-opacity="0"/></linearGradient>
 <linearGradient id="bg" x1="0" y1="0" x2=".7" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset=".55" stop-color="#0a0e18"/><stop offset="1" stop-color="#0d1224"/></linearGradient>
-<radialGradient id="halo" cx=".5" cy=".4" r=".62"><stop offset="0" stop-color="#7aa2f7" stop-opacity=".22"/><stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/></radialGradient>
+<radialGradient id="halo" cx=".5" cy=".4" r=".62"><stop offset="0" stop-color="#7aa2f7" stop-opacity=".34"/><stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/></radialGradient>
 <pattern id="crt" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#0a0e18" opacity=".22"/></pattern>
-<clipPath id="artclip"><rect x="28" y="50" width="271" height="349"/></clipPath>
-<clipPath id="cardclip"><rect x="1.5" y="1.5" width="917" height="477" rx="15"/></clipPath>
+<clipPath id="artclip"><rect x="32" y="52" width="310" height="368"/></clipPath>
+<clipPath id="cardclip"><rect x="1.5" y="1.5" width="917" height="517" rx="15"/></clipPath>
+<filter id="glow" x="-14%" y="-10%" width="128%" height="120%"><feGaussianBlur stdDeviation="2.1" result="b"/><feComponentTransfer in="b" result="b2"><feFuncA type="linear" slope="1.45"/></feComponentTransfer><feMerge><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<style>text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre}.rv{animation:rv .5s cubic-bezier(.2,.8,.3,1) backwards}@keyframes rv{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}.ar{animation:ar .45s ease-out backwards}@keyframes ar{from{opacity:0}to{opacity:1}}.sweep{animation:sweep 4.6s cubic-bezier(.45,0,.55,1) infinite}@keyframes sweep{0%{transform:translateY(-30px);opacity:0}10%{opacity:1}88%{opacity:1}100%{transform:translateY(360px);opacity:0}}.cur{animation:cur 1.05s steps(1) infinite}@keyframes cur{0%,50%{opacity:1}51%,100%{opacity:0}}.pulse{animation:pulse 5.2s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.32}50%{opacity:.72}}.breathe{animation:breathe 5.2s ease-in-out infinite}@keyframes breathe{0%,100%{opacity:.75}50%{opacity:1}}.dot{animation:dot 2.4s ease-in-out infinite}@keyframes dot{0%,100%{opacity:1}50%{opacity:.35}}@media (prefers-reduced-motion:reduce){.rv,.ar,.sweep,.cur,.pulse,.breathe,.dot{animation:none}.sweep{opacity:0}}</style>
-<rect x="1.5" y="1.5" width="917" height="477" rx="15" fill="url(#bg)"/>
-<rect x="1.5" y="1.5" width="917" height="477" rx="15" fill="none" stroke="url(#edge)" stroke-width="2.4" class="pulse"/>
-<rect x="1.5" y="1.5" width="917" height="477" rx="15" fill="none" stroke="url(#edge)" stroke-width="1" opacity=".9"/>
+<style>text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre}.rv{animation:rv .5s cubic-bezier(.2,.8,.3,1) backwards}@keyframes rv{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}.ar{animation:ar .45s ease-out backwards}@keyframes ar{from{opacity:0}to{opacity:1}}.sweep{animation:sweep 4.6s cubic-bezier(.45,0,.55,1) infinite}@keyframes sweep{0%{transform:translateY(-30px);opacity:0}10%{opacity:1}88%{opacity:1}100%{transform:translateY(380px);opacity:0}}.cur{animation:cur 1.05s steps(1) infinite}@keyframes cur{0%,50%{opacity:1}51%,100%{opacity:0}}.pulse{animation:pulse 5.2s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.32}50%{opacity:.72}}.breathe{animation:breathe 5.2s ease-in-out infinite}@keyframes breathe{0%,100%{opacity:.92}50%{opacity:1}}.dot{animation:dot 2.4s ease-in-out infinite}@keyframes dot{0%,100%{opacity:1}50%{opacity:.35}}@media (prefers-reduced-motion:reduce){.rv,.ar,.sweep,.cur,.pulse,.breathe,.dot{animation:none}.sweep{opacity:0}}</style>
+<rect x="1.5" y="1.5" width="917" height="517" rx="15" fill="url(#bg)"/>
+<rect x="1.5" y="1.5" width="917" height="517" rx="15" fill="none" stroke="url(#edge)" stroke-width="2.4" class="pulse"/>
+<rect x="1.5" y="1.5" width="917" height="517" rx="15" fill="none" stroke="url(#edge)" stroke-width="1" opacity=".9"/>
 <path d="M1.5 34H918.5" stroke="#1b2340"/>
 <circle cx="26" cy="17.0" r="5.2" fill="#ff5f57"/>
 <circle cx="43" cy="17.0" r="5.2" fill="#febc2e"/>
 <circle cx="60" cy="17.0" r="5.2" fill="#28c840"/>
 <text x="460.0" y="21.0" text-anchor="middle" font-size="11.5" fill="#5a678f">jinish@github — ~/profile — zsh</text>
 <text x="896" y="21.0" text-anchor="end" font-size="10.5" fill="#4a5880">80×24</text>
-<rect x="22" y="44" width="283" height="361" fill="url(#halo)"/>
+<rect x="26" y="46" width="322" height="380" fill="url(#halo)"/>
 <g clip-path="url(#artclip)">
-<g class="breathe" fill="url(#asciiGrad)" font-size="7.8">
-<text class="ar" style="animation-delay:0.15s" x="36" y="62.0" xml:space="preserve">                   ^^^````````</text>
-<text class="ar" style="animation-delay:0.18s" x="36" y="70.6" xml:space="preserve">                 *xx&amp;o!o!;`````:```</text>
-<text class="ar" style="animation-delay:0.22s" x="36" y="79.2" xml:space="preserve">               ;&amp;i^x*:ixo;xoi``````:^</text>
-<text class="ar" style="animation-delay:0.26s" x="36" y="87.8" xml:space="preserve">               `^`^:``!^;:^+**o:```^!</text>
-<text class="ar" style="animation-delay:0.29s" x="36" y="96.4" xml:space="preserve">              o^;!*x*o+***+i^:;^;^^^!i</text>
-<text class="ar" style="animation-delay:0.33s" x="36" y="105.0" xml:space="preserve">             *@;;%%%%%@@@@%%88x*ox^`^</text>
-<text class="ar" style="animation-delay:0.36s" x="36" y="113.6" xml:space="preserve">             :i+o&amp;%%%%%%%%88888&amp;x&amp;x``</text>
-<text class="ar" style="animation-delay:0.40s" x="36" y="122.2" xml:space="preserve">             ^!ox&amp;88%%%%%%%88&amp;&amp;&amp;x&amp;&amp;;`</text>
-<text class="ar" style="animation-delay:0.43s" x="36" y="130.8" xml:space="preserve">              oxx888%%%@%%8%%%8&amp;x*x8</text>
-<text class="ar" style="animation-delay:0.47s" x="36" y="139.4" xml:space="preserve">              ++ %8&amp;&amp;8&amp;ox&amp;&amp;88&amp;*!iixx</text>
-<text class="ar" style="animation-delay:0.50s" x="36" y="148.0" xml:space="preserve">              !+ %8&amp;&amp;&amp;***&amp;88*+o+ox&amp;&amp;!</text>
-<text class="ar" style="animation-delay:0.54s" x="36" y="156.6" xml:space="preserve">             !@  %%%8&amp;xx&amp;@@@oo8&amp;xxo&amp;x</text>
-<text class="ar" style="animation-delay:0.57s" x="36" y="165.2" xml:space="preserve">             +@  +%%@%%%@%@%&amp;o&amp;8&amp;&amp;x8i</text>
-<text class="ar" style="animation-delay:0.61s" x="36" y="173.8" xml:space="preserve">              %o  &amp;%%%%8%@8%8&amp;x&amp;8&amp;x8</text>
-<text class="ar" style="animation-delay:0.64s" x="36" y="182.4" xml:space="preserve">               i  !@@%@%%!  :;;x&amp;x&amp;i</text>
-<text class="ar" style="animation-delay:0.68s" x="36" y="191.0" xml:space="preserve">                    +&amp;+      +i!o&amp;o</text>
-<text class="ar" style="animation-delay:0.71s" x="36" y="199.6" xml:space="preserve">                         +   +oio8</text>
-<text class="ar" style="animation-delay:0.75s" x="36" y="208.2" xml:space="preserve">                  +          oxo&amp;;</text>
-<text class="ar" style="animation-delay:0.78s" x="36" y="216.8" xml:space="preserve">                :x@%+        ***x</text>
-<text class="ar" style="animation-delay:0.82s" x="36" y="225.4" xml:space="preserve">               io*+x88oi;;::!*o%;`</text>
-<text class="ar" style="animation-delay:0.85s" x="36" y="234.0" xml:space="preserve">              ;o*+;;;i*o&amp;xxx&amp;x*:`</text>
-<text class="ar" style="animation-delay:0.89s" x="36" y="242.6" xml:space="preserve">            ;!i;!+!;:^``^::;i:``i</text>
-<text class="ar" style="animation-delay:0.92s" x="36" y="251.2" xml:space="preserve">         i!*+;!::;;:^^^````````^^``</text>
-<text class="ar" style="animation-delay:0.96s" x="36" y="259.8" xml:space="preserve">       *o*!*x`*+;:::^^`^``````````````</text>
-<text class="ar" style="animation-delay:0.99s" x="36" y="268.4" xml:space="preserve">     !++i!+o&amp;;;o++!i::^^^``````````````^```^</text>
-<text class="ar" style="animation-delay:1.03s" x="36" y="277.0" xml:space="preserve">  ;***+o+;*xxo^+o++*+++i:^````````:`````````^````</text>
-<text class="ar" style="animation-delay:1.06s" x="36" y="285.6" xml:space="preserve">ioooooooo*i+o&amp;!`*o!!*!!*!iii;;i!!*!`````````````^^</text>
-<text class="ar" style="animation-delay:1.09s" x="36" y="294.2" xml:space="preserve">xo****o**xo:io8^^*o+i*!;++i+*oooox:``^::^^^:^^^^^^^`</text>
-<text class="ar" style="animation-delay:1.13s" x="36" y="302.8" xml:space="preserve">oo*o****+!+o:;xx`;*o*;*+;i^:;i!+oo```:;i::::i^^;;:^:`</text>
-<text class="ar" style="animation-delay:1.17s" x="36" y="311.4" xml:space="preserve">xoo***+**+;;o:^&amp;+`!+**^!*:^:ii;i+*``^ii!i;;;ii`:!!`:^^</text>
-<text class="ar" style="animation-delay:1.20s" x="36" y="320.0" xml:space="preserve">xoo***++!+*;^o:^&amp;`:++*+^++:^:i!!+!``^!i!+iiii+:`i+`^::</text>
-<text class="ar" style="animation-delay:1.24s" x="36" y="328.6" xml:space="preserve">xooo**++*!;+;`o`ii`!*+*i^+i^^:i!+i``^!+!++!!ii+`^!`^::</text>
-<text class="ar" style="animation-delay:1.27s" x="36" y="337.2" xml:space="preserve">xoo****+!+!^i;^:`*`i+++*^:!:^`:!*;``:!++++!iii!:`i``^^</text>
-<text class="ar" style="animation-delay:1.30s" x="36" y="345.8" xml:space="preserve">oooo***+++ii`:^:`*`!+!!*i^ii:^^;+:``:!!+++!ii;ii`:```^</text>
-<text class="ar" style="animation-delay:1.34s" x="36" y="354.4" xml:space="preserve">ooo****+i!i;:``^`*`!+!!!!:;i;:^^+:``:i+++!!i;;:;`^```^</text>
-<text class="ar" style="animation-delay:1.38s" x="36" y="363.0" xml:space="preserve">ooo**+!!ii;:^``:`*`!++!!!;;;;:^`;^``:!!!!i!;;;::`:```^</text>
-<text class="ar" style="animation-delay:1.41s" x="36" y="371.6" xml:space="preserve">ooo***+i;::^`````!`!+!!iii;;::^`^```:!!!!;i;:^:^`:``^:</text>
-<text class="ar" style="animation-delay:1.45s" x="36" y="380.2" xml:space="preserve">xoo*+!!i!!i;^````+^ii!iii;;;:^^`````:ii!i;i:^`:`````^`</text>
-<text class="ar" style="animation-delay:1.48s" x="36" y="388.8" xml:space="preserve">xxoo*++i;:;;;;^``::^:;;;;::::^``````^;i;::i:`^^``````^</text>
+<g class="breathe" filter="url(#glow)" fill="url(#asciiGrad)" font-size="9.0">
+<text class="ar" style="animation-delay:0.15s" x="40" y="64.0" xml:space="preserve">                  i!!!^^```````</text>
+<text class="ar" style="animation-delay:0.18s" x="40" y="73.9" xml:space="preserve">                *&amp;o8%x*8x!!^```^``^:</text>
+<text class="ar" style="animation-delay:0.22s" x="40" y="83.8" xml:space="preserve">               !o^:*;^+**io8x!!````;i</text>
+<text class="ar" style="animation-delay:0.26s" x="40" y="93.7" xml:space="preserve">               ^^^!!;!+i!!:ii+*;:^;:*+</text>
+<text class="ar" style="animation-delay:0.29s" x="40" y="103.6" xml:space="preserve">             o@i!%%@%%%@%%%&amp;xo*!**^`i</text>
+<text class="ar" style="animation-delay:0.33s" x="40" y="113.5" xml:space="preserve">             !o+*%@%@@@@@@%%%@%8&amp;%o`^</text>
+<text class="ar" style="animation-delay:0.36s" x="40" y="123.4" xml:space="preserve">             :!x&amp;8%%@@@@@@%%%88&amp;&amp;&amp;8:^</text>
+<text class="ar" style="animation-delay:0.40s" x="40" y="133.3" xml:space="preserve">              x&amp;&amp;8%%@@@@@%%%%%%%&amp;x88</text>
+<text class="ar" style="animation-delay:0.43s" x="40" y="143.2" xml:space="preserve">              oo @%%8%8&amp;888%%8x*++&amp;8</text>
+<text class="ar" style="animation-delay:0.47s" x="40" y="153.1" xml:space="preserve">              ** @%888oxx8%%x*x*x&amp;88+</text>
+<text class="ar" style="animation-delay:0.50s" x="40" y="163.0" xml:space="preserve">             *@  @@%%8&amp;88@@@xx%8&amp;&amp;x8&amp;</text>
+<text class="ar" style="animation-delay:0.54s" x="40" y="172.9" xml:space="preserve">             *@  *@@@@@@@@@@%&amp;8%88&amp;%!</text>
+<text class="ar" style="animation-delay:0.57s" x="40" y="182.8" xml:space="preserve">              8&amp;  8@@@@@@@x88&amp;x8%8&amp;8</text>
+<text class="ar" style="animation-delay:0.61s" x="40" y="192.7" xml:space="preserve">                   %@@@&amp;x    i;&amp;8&amp;8</text>
+<text class="ar" style="animation-delay:0.64s" x="40" y="202.6" xml:space="preserve">                     *       o*ix%o</text>
+<text class="ar" style="animation-delay:0.68s" x="40" y="212.5" xml:space="preserve">                         *   o&amp;o&amp;&amp;</text>
+<text class="ar" style="animation-delay:0.71s" x="40" y="222.4" xml:space="preserve">                 *@x         x&amp;x8</text>
+<text class="ar" style="animation-delay:0.75s" x="40" y="232.3" xml:space="preserve">                ox8@%xi      oo8o</text>
+<text class="ar" style="animation-delay:0.78s" x="40" y="242.2" xml:space="preserve">               xx*!+*x&amp;&amp;8&amp;xo&amp;&amp;&amp;o^</text>
+<text class="ar" style="animation-delay:0.82s" x="40" y="252.1" xml:space="preserve">             !++**+i;^^:i!+*o+^`i</text>
+<text class="ar" style="animation-delay:0.85s" x="40" y="262.0" xml:space="preserve">          !**!+:i!i;::^````````^;^`</text>
+<text class="ar" style="animation-delay:0.89s" x="40" y="271.9" xml:space="preserve">       oxo*ox^x*i;:;::^^``````````^``^</text>
+<text class="ar" style="animation-delay:0.92s" x="40" y="281.8" xml:space="preserve">     +*o!+*x8i!x**+!;;^^^`````````````^:``^:</text>
+<text class="ar" style="animation-delay:0.96s" x="40" y="291.7" xml:space="preserve">  !ooo*x*io&amp;&amp;x^*x*oo***!;:^^^````^;`````````^````</text>
+<text class="ar" style="animation-delay:0.99s" x="40" y="301.6" xml:space="preserve">*xxxxxxxxo+*x8*`o&amp;*+o*+o*!+++++**x+```^``````^``^:`</text>
+<text class="ar" style="animation-delay:1.03s" x="40" y="311.5" xml:space="preserve">&amp;xoooxxx*xxiix%i^*xo!**!**i+*xxxx&amp;;``::;^::i:^:;::::</text>
+<text class="ar" style="animation-delay:1.06s" x="40" y="321.4" xml:space="preserve">&amp;xxxooooo!!x!;o8^:*xxi+o!i^;i!!*xo^`^ii+;;;;+:^iii^;`</text>
+<text class="ar" style="animation-delay:1.09s" x="40" y="331.3" xml:space="preserve">&amp;xxooooooo+:o*`o&amp;`!oox;ix!::i+!+**``^!!++!!i!*^:+*`:^;</text>
+<text class="ar" style="animation-delay:1.13s" x="40" y="341.2" xml:space="preserve">&amp;&amp;xxooo**+*+`**`x;`*ooo:ioi^:i+**+``:+++*+++!+!`i*`^i;</text>
+<text class="ar" style="animation-delay:1.17s" x="40" y="351.1" xml:space="preserve">&amp;&amp;xxooo*o*!i*^+^:o`!o*oo`!*:^:i+o!``:+o***+++!*^`+`^:;</text>
+<text class="ar" style="animation-delay:1.20s" x="40" y="361.0" xml:space="preserve">&amp;xxxooo***+i^!^i`o`+**+xi:+i:^:!oi``;+****++!i+i`i^`^:</text>
+<text class="ar" style="animation-delay:1.24s" x="40" y="370.9" xml:space="preserve">&amp;xxxxoo*+*!!:^::^o`+*++*+:i!i:^:*;``;+****+!!i;i`:```:</text>
+<text class="ar" style="animation-delay:1.27s" x="40" y="380.8" xml:space="preserve">xxxoo***!!i;:``;^o`***+++iiii;^`!:``;++++++!ii:;`:```:</text>
+<text class="ar" style="animation-delay:1.30s" x="40" y="390.7" xml:space="preserve">&amp;xxooo*!i;;^^``:^*`+*++!!!ii;;:`:```;*+++!+i;::;`;``^;</text>
+<text class="ar" style="animation-delay:1.34s" x="40" y="400.6" xml:space="preserve">&amp;xxo**+++!i;:````*:!++!!!!ii;:^`````:+++!i!;^`;``^``:^</text>
+<text class="ar" style="animation-delay:1.38s" x="40" y="410.5" xml:space="preserve">&amp;&amp;xxx**+iiiii;:``i;^;!iii;;;;:``````:i+!;;!;`^^`^```^^</text>
 </g>
-<rect class="sweep" x="28" y="50" width="271" height="20" fill="url(#scan)" opacity=".20"/>
+<rect class="sweep" x="32" y="52" width="310" height="26" fill="url(#scan)" opacity=".13"/>
 </g>
-<text class="rv" style="animation-delay:1.7s" x="36" y="415" font-size="9.5" fill="#4a5880" xml:space="preserve">avatar.jpg → ascii  ·  54×39  ·  16 levels</text>
-<path d="M322 48V464" stroke="#182042"/>
-<text class="rv" style="animation-delay:0.35s" x="350" y="74" font-size="14.5" font-weight="700" fill="#9ece6a" xml:space="preserve">jinishshah00<tspan fill="#4a5880" font-weight="400">@github</tspan></text>
-<path class="rv" style="animation-delay:0.42s" d="M350 81H890" stroke="#232c52"/>
-<text class="rv" style="animation-delay:0.50s" x="350" y="100" font-size="10.6" font-weight="700" letter-spacing="1.6" fill="#bb9af7" xml:space="preserve">▚ SYSTEM</text>
-<text class="rv" style="animation-delay:0.57s" x="360" y="115" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">subject ..... </tspan><tspan fill="#c0caf5">Jinish Shah</tspan></text>
-<text class="rv" style="animation-delay:0.65s" x="360" y="131" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">role ........ </tspan><tspan fill="#c0caf5">AI-Native Software Engineer</tspan></text>
-<text class="rv" style="animation-delay:0.72s" x="360" y="147" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">education ... </tspan><tspan fill="#c0caf5">M.S. Computer Science · Santa Clara Univ.</tspan></text>
-<text class="rv" style="animation-delay:0.80s" x="360" y="162" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">focus ....... </tspan><tspan fill="#c0caf5">Agentic AI · Distributed Backends · Devtools</tspan></text>
-<text class="rv" style="animation-delay:0.88s" x="360" y="178" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">status ...... </tspan><tspan fill="#c0caf5">building systems that think</tspan></text>
-<text class="rv" style="animation-delay:0.95s" x="360" y="193" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">shell ....... </tspan><tspan fill="#c0caf5">zsh · nvim · Claude Code</tspan></text>
-<text class="rv" style="animation-delay:1.10s" x="350" y="218" font-size="10.6" font-weight="700" letter-spacing="1.6" fill="#bb9af7" xml:space="preserve">▚ STACK</text>
-<text class="rv" style="animation-delay:1.17s" x="360" y="233" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">languages ... </tspan><tspan fill="#c0caf5">TypeScript · Python · Go · JavaScript · C</tspan></text>
-<text class="rv" style="animation-delay:1.25s" x="360" y="249" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">frontend .... </tspan><tspan fill="#c0caf5">React · Next.js · Tailwind</tspan></text>
-<text class="rv" style="animation-delay:1.32s" x="360" y="264" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">backend ..... </tspan><tspan fill="#c0caf5">Node.js · FastAPI · Express · Kafka</tspan></text>
-<text class="rv" style="animation-delay:1.40s" x="360" y="280" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">data ........ </tspan><tspan fill="#c0caf5">PostgreSQL · MongoDB · Redis</tspan></text>
-<text class="rv" style="animation-delay:1.48s" x="360" y="296" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">infra ....... </tspan><tspan fill="#c0caf5">Docker · Kubernetes · AWS · GCP</tspan></text>
-<text class="rv" style="animation-delay:1.55s" x="360" y="311" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">ai .......... </tspan><tspan fill="#c0caf5">Claude API · RAG · LangChain · PyTorch</tspan></text>
-<text class="rv" style="animation-delay:1.70s" x="350" y="335" font-size="10.6" font-weight="700" letter-spacing="1.6" fill="#bb9af7" xml:space="preserve">▚ CONTACT</text>
-<text class="rv" style="animation-delay:1.77s" x="360" y="351" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">email ....... </tspan><tspan fill="#c0caf5">j.dev.shah@gmail.com</tspan></text>
-<text class="rv" style="animation-delay:1.85s" x="360" y="367" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">portfolio ... </tspan><tspan fill="#c0caf5">jinishshah00.github.io</tspan></text>
-<text class="rv" style="animation-delay:1.92s" x="360" y="382" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">github ...... </tspan><tspan fill="#c0caf5">@jinishshah00</tspan></text>
-<rect class="rv" style="animation-delay:2.07s" x="360" y="396" width="13" height="13" rx="2.5" fill="#f7768e"/>
-<rect class="rv" style="animation-delay:2.12s" x="377" y="396" width="13" height="13" rx="2.5" fill="#ff9e64"/>
-<rect class="rv" style="animation-delay:2.17s" x="394" y="396" width="13" height="13" rx="2.5" fill="#e0af68"/>
-<rect class="rv" style="animation-delay:2.22s" x="411" y="396" width="13" height="13" rx="2.5" fill="#9ece6a"/>
-<rect class="rv" style="animation-delay:2.27s" x="428" y="396" width="13" height="13" rx="2.5" fill="#73daca"/>
-<rect class="rv" style="animation-delay:2.32s" x="445" y="396" width="13" height="13" rx="2.5" fill="#7dcfff"/>
-<rect class="rv" style="animation-delay:2.38s" x="462" y="396" width="13" height="13" rx="2.5" fill="#7aa2f7"/>
-<rect class="rv" style="animation-delay:2.42s" x="479" y="396" width="13" height="13" rx="2.5" fill="#bb9af7"/>
-<text class="rv" style="animation-delay:2.57s" x="508" y="406" font-size="10.5" fill="#4a5880" xml:space="preserve">tokyonight</text>
-<text class="rv" style="animation-delay:2.4s" x="350" y="454" font-size="11.3" xml:space="preserve"><tspan fill="#9ece6a">➜</tspan><tspan fill="#7aa2f7">  ~/profile </tspan><tspan fill="#c0caf5">git push --force-of-habit</tspan></text>
-<rect class="cur" x="617" y="445" width="7" height="11" fill="#9ece6a"/>
-<circle class="dot" cx="40" cy="450" r="3.4" fill="#9ece6a"/>
-<text class="rv" style="animation-delay:2.5s" x="52" y="454" font-size="10.5" fill="#4a5880" xml:space="preserve">online · building in public</text>
-<rect clip-path="url(#cardclip)" x="0" y="0" width="920" height="480" fill="url(#crt)" opacity=".45" pointer-events="none"/>
+<text class="rv" style="animation-delay:1.7s" x="40" y="436" font-size="9.5" fill="#4a5880" xml:space="preserve">avatar.jpg → ascii  ·  54×36  ·  16 levels</text>
+<path d="M366 48V504" stroke="#182042"/>
+<text class="rv" style="animation-delay:0.35s" x="392" y="82" font-size="14.5" font-weight="700" fill="#9ece6a" xml:space="preserve">jinishshah00<tspan fill="#4a5880" font-weight="400">@github</tspan></text>
+<path class="rv" style="animation-delay:0.42s" d="M392 89H890" stroke="#232c52"/>
+<text class="rv" style="animation-delay:0.50s" x="392" y="109" font-size="10.6" font-weight="700" letter-spacing="1.6" fill="#bb9af7" xml:space="preserve">▚ SYSTEM</text>
+<text class="rv" style="animation-delay:0.57s" x="402" y="125" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">subject ..... </tspan><tspan fill="#c0caf5">Jinish Shah</tspan></text>
+<text class="rv" style="animation-delay:0.65s" x="402" y="142" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">role ........ </tspan><tspan fill="#c0caf5">AI-Native Software Engineer</tspan></text>
+<text class="rv" style="animation-delay:0.72s" x="402" y="158" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">education ... </tspan><tspan fill="#c0caf5">M.S. Computer Science · Santa Clara Univ.</tspan></text>
+<text class="rv" style="animation-delay:0.80s" x="402" y="175" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">focus ....... </tspan><tspan fill="#c0caf5">Agentic AI · Distributed Backends · Devtools</tspan></text>
+<text class="rv" style="animation-delay:0.88s" x="402" y="191" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">status ...... </tspan><tspan fill="#c0caf5">building systems that think</tspan></text>
+<text class="rv" style="animation-delay:0.95s" x="402" y="207" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">shell ....... </tspan><tspan fill="#c0caf5">zsh · nvim · Claude Code</tspan></text>
+<text class="rv" style="animation-delay:1.10s" x="392" y="233" font-size="10.6" font-weight="700" letter-spacing="1.6" fill="#bb9af7" xml:space="preserve">▚ STACK</text>
+<text class="rv" style="animation-delay:1.17s" x="402" y="249" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">languages ... </tspan><tspan fill="#c0caf5">TypeScript · Python · Go · JavaScript · C</tspan></text>
+<text class="rv" style="animation-delay:1.25s" x="402" y="266" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">frontend .... </tspan><tspan fill="#c0caf5">React · Next.js · Tailwind</tspan></text>
+<text class="rv" style="animation-delay:1.32s" x="402" y="282" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">backend ..... </tspan><tspan fill="#c0caf5">Node.js · FastAPI · Express · Kafka</tspan></text>
+<text class="rv" style="animation-delay:1.40s" x="402" y="298" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">data ........ </tspan><tspan fill="#c0caf5">PostgreSQL · MongoDB · Redis</tspan></text>
+<text class="rv" style="animation-delay:1.48s" x="402" y="315" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">infra ....... </tspan><tspan fill="#c0caf5">Docker · Kubernetes · AWS · GCP</tspan></text>
+<text class="rv" style="animation-delay:1.55s" x="402" y="331" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">ai .......... </tspan><tspan fill="#c0caf5">Claude API · RAG · LangChain · PyTorch</tspan></text>
+<text class="rv" style="animation-delay:1.70s" x="392" y="357" font-size="10.6" font-weight="700" letter-spacing="1.6" fill="#bb9af7" xml:space="preserve">▚ CONTACT</text>
+<text class="rv" style="animation-delay:1.77s" x="402" y="373" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">email ....... </tspan><tspan fill="#c0caf5">j.dev.shah@gmail.com</tspan></text>
+<text class="rv" style="animation-delay:1.85s" x="402" y="389" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">portfolio ... </tspan><tspan fill="#c0caf5">jinishshah00.github.io</tspan></text>
+<text class="rv" style="animation-delay:1.92s" x="402" y="406" font-size="11.3" xml:space="preserve"><tspan fill="#7aa2f7">github ...... </tspan><tspan fill="#c0caf5">@jinishshah00</tspan></text>
+<rect class="rv" style="animation-delay:2.07s" x="402" y="421" width="13" height="13" rx="2.5" fill="#f7768e"/>
+<rect class="rv" style="animation-delay:2.12s" x="419" y="421" width="13" height="13" rx="2.5" fill="#ff9e64"/>
+<rect class="rv" style="animation-delay:2.17s" x="436" y="421" width="13" height="13" rx="2.5" fill="#e0af68"/>
+<rect class="rv" style="animation-delay:2.22s" x="453" y="421" width="13" height="13" rx="2.5" fill="#9ece6a"/>
+<rect class="rv" style="animation-delay:2.27s" x="470" y="421" width="13" height="13" rx="2.5" fill="#73daca"/>
+<rect class="rv" style="animation-delay:2.32s" x="487" y="421" width="13" height="13" rx="2.5" fill="#7dcfff"/>
+<rect class="rv" style="animation-delay:2.38s" x="504" y="421" width="13" height="13" rx="2.5" fill="#7aa2f7"/>
+<rect class="rv" style="animation-delay:2.42s" x="521" y="421" width="13" height="13" rx="2.5" fill="#bb9af7"/>
+<text class="rv" style="animation-delay:2.57s" x="550" y="431" font-size="10.5" fill="#4a5880" xml:space="preserve">tokyonight</text>
+<text class="rv" style="animation-delay:2.4s" x="392" y="494" font-size="11.3" xml:space="preserve"><tspan fill="#9ece6a">➜</tspan><tspan fill="#7aa2f7">  ~/profile </tspan><tspan fill="#c0caf5">git push --force-of-habit</tspan></text>
+<rect class="cur" x="659" y="485" width="7" height="11" fill="#9ece6a"/>
+<circle class="dot" cx="44" cy="490" r="3.4" fill="#9ece6a"/>
+<text class="rv" style="animation-delay:2.5s" x="56" y="494" font-size="10.5" fill="#4a5880" xml:space="preserve">online · building in public</text>
+<rect clip-path="url(#cardclip)" x="0" y="0" width="920" height="520" fill="url(#crt)" opacity=".45" pointer-events="none"/>
 </svg>

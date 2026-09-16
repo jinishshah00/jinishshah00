@@ -16,12 +16,12 @@ from xml.sax.saxutils import escape
 ART = [l for l in open(ART_PATH).read().split("\n") if l.strip()]
 COLS = max(len(l) for l in ART); ROWS = len(ART)
 
-W, H   = 920, 480
+W, H   = 920, 520
 BAR    = 34
-AX, AY = 36, 62
-AFS, ALH = 7.8, 8.6
-DIVX   = 322
-RX, RY, RLH, RFS = 350, 74, 15.6, 11.3
+AX, AY = 40, 64
+AFS, ALH = 9.0, 9.9
+DIVX   = 366
+RX, RY, RLH, RFS = 392, 82, 16.4, 11.3
 AW = COLS * AFS * 0.605
 MONO = ("ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,"
         "'DejaVu Sans Mono','Liberation Mono',monospace")
@@ -69,23 +69,27 @@ A('<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">'
   '<stop offset="0" stop-color="#7dcfff"/><stop offset=".5" stop-color="#7aa2f7"/>'
   '<stop offset="1" stop-color="#bb9af7"/></linearGradient>')
 A('<linearGradient id="asciiGrad" x1="0" y1="0" x2=".3" y2="1">'
-  '<stop offset="0" stop-color="#7dcfff"/><stop offset=".45" stop-color="#7aa2f7"/>'
-  '<stop offset="1" stop-color="#bb9af7"/></linearGradient>')
+  '<stop offset="0" stop-color="#b8ecff"/><stop offset=".45" stop-color="#a9c8ff"/>'
+  '<stop offset="1" stop-color="#d8bdff"/></linearGradient>')
 A('<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">'
   '<stop offset="0" stop-color="#7dcfff" stop-opacity="0"/>'
-  '<stop offset=".5" stop-color="#cfeaff" stop-opacity=".75"/>'
+  '<stop offset=".5" stop-color="#e6f6ff" stop-opacity=".55"/>'
   '<stop offset="1" stop-color="#bb9af7" stop-opacity="0"/></linearGradient>')
 A('<linearGradient id="bg" x1="0" y1="0" x2=".7" y2="1">'
   '<stop offset="0" stop-color="#0b1020"/><stop offset=".55" stop-color="#0a0e18"/>'
   '<stop offset="1" stop-color="#0d1224"/></linearGradient>')
 A('<radialGradient id="halo" cx=".5" cy=".4" r=".62">'
-  '<stop offset="0" stop-color="#7aa2f7" stop-opacity=".22"/>'
+  '<stop offset="0" stop-color="#7aa2f7" stop-opacity=".34"/>'
   '<stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/></radialGradient>')
 A('<pattern id="crt" width="4" height="4" patternUnits="userSpaceOnUse">'
   '<rect width="4" height="2" fill="#0a0e18" opacity=".22"/></pattern>')
 A(f'<clipPath id="artclip"><rect x="{AX-8}" y="{AY-12}" width="{AW+16:.0f}" '
   f'height="{(ROWS-1)*ALH+22:.0f}"/></clipPath>')
 A(f'<clipPath id="cardclip"><rect x="1.5" y="1.5" width="{W-3}" height="{H-3}" rx="15"/></clipPath>')
+A('<filter id="glow" x="-14%" y="-10%" width="128%" height="120%">'
+  '<feGaussianBlur stdDeviation="2.1" result="b"/>'
+  '<feComponentTransfer in="b" result="b2"><feFuncA type="linear" slope="1.45"/></feComponentTransfer>'
+  '<feMerge><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge></filter>')
 A('</defs>')
 
 sweep_to = int((ROWS - 1) * ALH + 34)
@@ -105,7 +109,7 @@ A('<style>'
   '.pulse{animation:pulse 5.2s ease-in-out infinite}'
   '@keyframes pulse{0%%,100%%{opacity:.32}50%%{opacity:.72}}'
   '.breathe{animation:breathe 5.2s ease-in-out infinite}'
-  '@keyframes breathe{0%%,100%%{opacity:.75}50%%{opacity:1}}'
+  '@keyframes breathe{0%%,100%%{opacity:.92}50%%{opacity:1}}'
   '.dot{animation:dot 2.4s ease-in-out infinite}'
   '@keyframes dot{0%%,100%%{opacity:1}50%%{opacity:.35}}'
   '@media (prefers-reduced-motion:reduce){'
@@ -128,13 +132,13 @@ A(f'<text x="{W-24}" y="{BAR/2+4}" text-anchor="end" font-size="10.5" fill="{DIM
 # left: ascii portrait
 A(f'<rect x="{AX-14}" y="{AY-18}" width="{AW+28:.0f}" height="{(ROWS-1)*ALH+34:.0f}" fill="url(#halo)"/>')
 A('<g clip-path="url(#artclip)">')
-A(f'<g class="breathe" fill="url(#asciiGrad)" font-size="{AFS}">')
+A(f'<g class="breathe" filter="url(#glow)" fill="url(#asciiGrad)" font-size="{AFS}">')
 for i, line in enumerate(ART):
     A(f'<text class="ar" style="animation-delay:{0.15+i*0.035:.2f}s" x="{AX}" '
       f'y="{AY+i*ALH:.1f}" xml:space="preserve">{escape(line)}</text>')
 A('</g>')
-A(f'<rect class="sweep" x="{AX-8}" y="{AY-12}" width="{AW+16:.0f}" height="20" '
-  f'fill="url(#scan)" opacity=".20"/>')
+A(f'<rect class="sweep" x="{AX-8}" y="{AY-12}" width="{AW+16:.0f}" height="26" '
+  f'fill="url(#scan)" opacity=".13"/>')
 A('</g>')
 A(f'<text class="rv" style="animation-delay:1.7s" x="{AX}" y="{AY+(ROWS-1)*ALH+26:.0f}" '
   f'font-size="9.5" fill="{DIM}" xml:space="preserve">'
